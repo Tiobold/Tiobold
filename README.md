@@ -14,12 +14,20 @@ Engineering leader by day, storyteller and stand-up comedian when given the chan
 
 ## 🏆 Salesforce Credentials
 
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/tiobold)
-
-- Salesforce Certified Administrator
-- Salesforce Certified App Builder
-- Salesforce Certified Sales Cloud Consultant
-- Salesforce Certified Service Cloud Consultant
+<p align="center">
+  <a href="https://www.salesforce.com/trailblazer/tiobold">
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000" width="120" alt="Salesforce Certified Administrator"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/tiobold">
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEmf&oid=00DF0000000gZsu&lastMod=1746780791000" width="120" alt="Salesforce Certified App Builder"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/tiobold">
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAHu9&oid=00DF0000000gZsu&lastMod=1746781628000" width="120" alt="Salesforce Certified Sales Cloud Consultant"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/tiobold">
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAI2D&oid=00DF0000000gZsu&lastMod=1746781709000" width="120" alt="Salesforce Certified Service Cloud Consultant"/>
+  </a>
+</p>
 
 ## 🛠️ Technical Focus
 
@@ -64,4 +72,4 @@ When I'm not debugging Salesforce flows, you'll find me:
 
 ---
 
-*"Remember: your perspective matters. Challenge ideas, question assumptions, and let's build something great together."*
+*"Remember: your perspective matters. Challenge ideas, question assumptions, and let's build something great together."*****

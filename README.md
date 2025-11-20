@@ -1,19 +1,3 @@
-# Hi there! 👋
-
-I'm Claudio Cocivera, Director of Engineering at EF, leading distributed teams across Europe, the US, and Panama.
-
-## 🚀 About Me
-
-Engineering leader by day, storyteller and stand-up comedian when given the chance - because great teams need both systems and stories.
-
-- 🏢 Currently working at **EF Education First**
-- 🌍 Based in **Budapest**, originally from Sicily
-- 💼 Specializing in **Salesforce architecture** and **digital transformation**
-- 🎯 Passionate about **automation**, **servant leadership**, and building **high-performing teams**
-- 🎭 Creative side: **storytelling**, **stand-up comedy**, and **theater**
-
-## 🏆 Salesforce Credentials
-
 <p align="center">
   <a href="https://www.salesforce.com/trailblazer/tiobold">
     <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000" width="120" alt="Salesforce Certified Administrator"/>
@@ -28,6 +12,20 @@ Engineering leader by day, storyteller and stand-up comedian when given the chan
     <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAI2D&oid=00DF0000000gZsu&lastMod=1746781709000" width="120" alt="Salesforce Certified Service Cloud Consultant"/>
   </a>
 </p>
+
+# Hi there! 👋
+
+I'm Claudio Cocivera, Director of Engineering at EF, leading distributed teams across Europe, the US, and Panama.
+
+## 🚀 About Me
+
+Engineering leader by day, storyteller and stand-up comedian when given the chance - because great teams need both systems and stories.
+
+- 🏢 Currently working at **EF Education First**
+- 🌍 Based in **Budapest**, originally from Sicily
+- 💼 Specializing in **Salesforce architecture** and **digital transformation**
+- 🎯 Passionate about **automation**, **servant leadership**, and building **high-performing teams**
+- 🎭 Creative side: **storytelling**, **stand-up comedy**, and **theater**
 
 ## 🛠️ Technical Focus
 
